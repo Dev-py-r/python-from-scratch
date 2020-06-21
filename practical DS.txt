@@ -1,0 +1,154 @@
+We will understand what is data science by looking at simple restaurant business example. Data science is a process of getting insights from data. You don't have to be deep learning expert in order to do data science, you can do that in plain old microsoft excel also (if dataset is small enough). In recent years volume of data has grown too much so that data has become BIG DATA. Microsoft excel can't work with big data hence you need tools such as,
+
+1) Apache hadoop and apache spark: For database storage and distributed computing
+2) Python and R: For data science programming
+3) Tableau, Power BI, Matplotlib, MATLAB, Jupyter Notebook: For data visualization
+4) Sklearn, Deep Learning, Tensorflow, PyTorch: For deep learning and machine learning
+
+Data scientist has become the most popular job in the market today and there is a huge career scope if you know how to do data science. Some of the use cases of data science in real life are,
+
+1) Healthcare: Diagnostic prediction and accuracy
+2) Finance: Fraud detection, predictive analysis on loans, stock market movement, company future
+3) Shipping: Figure out best route for shipping 
+4) E-commerce: Product recommendation, inventory pricing
+
+Understand Business Problem
+Data Collection
+Data Cleaning and Exploration
+Build Model
+Collect Insights
+
+Data Science is the process of drawing insides from data and you need programming language to operate on data.
+
+Once you learn python you can do a full stack application development
+
+What to learn in python?
+
+1. Variables, numbers
+2. Strings, lists, dictionaries
+3. For loop, if condition
+4. Functions
+5. Read/write file
+6. Basic understanding of modules
+
+Numpay and pandas - allow you to do data cleaning and data exploration.
+
+Data Cleaning and Exploration
+
+1. Series and dataframe basics
+2. Create dataframe from csv/excel/json
+3. Handle missing data, fillna, dropna
+4. groupby
+5. merge, concat dataframes
+
+py charm or visual editor code.
+jupyter code
+
+Data visualisation is the tecnique used by data scientist for data exploration.
+
+pick matplotlib or seaborn
+
+Data Visualization
+1. Line chart, bar chart, pie chart
+2. Histograms
+3. Axes labels, legend, grid
+4. Scatter plot
+
+SQL
+big data in company need to retrive data need to use a SQL
+1. Basic of relational database and structured query language (SQL)
+2. Query and update data: select, where, insert, update clause
+3. Groupby, orderby, joins, views
+
+Math and statistics
+1. Linear algebra
+2. Mean, median, normal distibution, standard deviation, mode, variance, range, IQR, correlation
+3. probability, conditional probability, priors, posteriors, maximum likelihood.
+4. Descriptive statistics, inferential statistics, regression, hypothesis testing, A/B testing 
+
+Good resource 3blue onebe
+
+Machine learning using sklearn
+
+Supervised learing technique
+1. Regression:Linear regression
+2. Classification:svm, decision tree, random forest, logistic regression, naive bayes
+
+Unsupervised learing :K means
+Label and one hot encoding
+train_test_split
+K fold cross validation
+GridSearchCV
+
+Useful for evaluating model performance and deciding best model and doing hyper parmeter tuning
+
+One of deeplearning fram works.
+Tensor flow from google
+pytorch from facebook
+theano from microsoft
+
+DeepLearing
+1. Neural network basics
+a. Input, hidden, output layers
+b. Activation function
+2. Convolutional neural networks-CNN
+3. Recurrent neural networks-RNN
+
+Microsoft Excel
+If data size is small and we don't want to code excel comes handy 
+data filter, formulas, plot differnet chart, Vlookup, pvote table.
+
+Entrprise tool
+Tableau and power bi people use for data visualization
+
+Hadoop and spark storing big data and distributaed computing
+
+Amazon SageMaker and Google Cloud AutoML Vision useful for could base ML computing. 
+
+Python tutorial (first 16 videos): https://www.youtube.com/playlist?list=PLeo1K3hjS3usILfyvQlvUBokXkHPSve6S
+
+Pandas (first 9 videos): https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy
+
+Jupyter notebook tutorial: https://www.youtube.com/playlist?list=PLeo1K3hjS3uuZPwzACannnFSn9qHn8to8
+
+Matplotlib: https://www.youtube.com/playlist?list=PLeo1K3hjS3uu4Lr8_kro2AqaO6CFYgKOl
+
+SQL (first 12 videos): https://www.youtube.com/playlist?list=PL08903FB7ACA1C2FB
+
+Statistics khan academy course: https://www.khanacademy.org/math/statistics-probability
+
+Machine learning tutorials (all videos): https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw
+
+Data science real life project: https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7clOTtwsp94PcHbzqpAdg
+
+For math, linear algebra, calculus refer to this awesome channel (3b1b): https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
+
+Online free courses: 
+Deep learning: https://www.coursera.org/specializations/deep-learning
+
+Python for data science: https://www.edx.org/course/python-for-data-science-2
+
+Data science essentials: https://www.edx.org/course/data-science-essentials
+
+Data science foundation: https://cognitiveclass.ai/learn/data-science
+
+Learning from data: http://work.caltech.edu/telecourse
+
+Books:
+Statistics: Think Stats Book: http://greenteapress.com/thinkstats2/thinkstats2.pdf
+
+Python: Automate boring stuff with python: https://automatetheboringstuff.com/
+
+Python data science handbook: https://jakevdp.github.io/PythonDataScienceHandbook/
+
+Website: http://codebasicshub.com/
+
+Facebook: https://www.facebook.com/codebasicshub
+
+Twitter: https://twitter.com/codebasicshub
+
+Patreon: https://www.patreon.com/codebasics
+
+project base learing approch is good. 
+
+https://www.youtube.com/watch?v=pd2_ZbhFT38&list=PLeo1K3hjS3us_ELKYSj_Fth2tIEkdKXvV&index=5&frags=wn
