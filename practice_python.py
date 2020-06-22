@@ -196,16 +196,328 @@ print("Tom's total expenses:",total)
 total=0
 for item in joe_exp_list:
     total=total+item
-print("Joe's total expenses:",total)
+print("Joe's total expenses:",total) #repeating same thing again
+
+#now same above code using funtion
+
+def calculate_total (exp):
+total=0
+for item in exp:
+    total=total+item
+return total
+
+tom_exp_list=[2100,3400,3500]
+joe_exp_list=[200,500,700]
+
+toms_total=calculate_total(tom_exp_list)
+joes_total=calculate_total(joe_exp_list)
+
+print("Tom's total expenses:",toms_total)
+print("Joe's total expenses:",joes_total)
+
+
+
+  """
+    multi 
+    line 
+    strings
+    
+    """
+    
+#sum using function
+total=0
+def sum(a,b): # default number (a,b=0)
+    print("a:",a)
+    print("b:",b)
+    
+    total=a+b
+    print("Total inside funtion ",total)
+    return total
+
+n=sum(5,6) #Also we can (b=5,a=6)#position argument, name argument
+#print(total) Global vs local, will give error as its local 
+print("Total outside function:",n)
+
+print("Total outside function:",total) #output 0
+
+
+#Dictionaries (Maps,Hashtables,Associated Arrays) and Tuples 
+
+d={"tom":7326789820, "rob":7325730239,"joe":7320923203}
+d
+d["tom"]
+d["sam"]=7395679879
+d
+del d["sam"]#delete
+d
+
+
+for key in d:
+    print("key:",key,"value:",d[key])
+    
+for k,v in d.items():
+    print("key:",key,"value:",v)
+
+"tom" in d #True
+
+"samir" in d #False
+
+d.clear()
+d
+
+""" 
+List- All the value have same meaning
+(Homogeneous)
+
+Tuple- All values have different
+
+meaning(heterogeneous)
+
+List eg:
+expense_list=[2300,2500,2900,6700]
+#Every item is an expense
+
+list_of names=["Bob","Tom","Partha"]
+#Every item is a name of the person
+
+Tuple eg:
+point=(4,5)#4 is x coordinate, 5 is y coordinate
+address=("1 purple street","new york",10001)
+
+
+
+ """
+#Tuple
+point=(5,9) 
+point[0]
+
+point[1]
+
+#Tuples are immutable
+# point [0]= 50 will get error 
+
+#installing matplotlib
+import matplotlib
+
+"""
+Modules is a way to reuse a code written
+by someone else
+
+"""
+
+""" 
+'acos','acosh', 'asin', 'asinh', 'atan', 'atan2', 'atanh', 'ceil', 
+'copysign', 'cos', 'cosh', 'degrees', 'e', 'erf', 'erfc', 'exp', 
+'expm1', 'fabs', 'factorial', 'floor', 'fmod', 'frexp', 'fsum', 
+'gamma', 'gcd', 'hypot', 'inf', 'isclose', 'isfinite', 'isinf', 
+'isnan', 'ldexp', 'lgamma', 'log', 'log10', 'log1p', 'log2', 'modf', 
+'nan', 'pi', 'pow', 'radians', 'remainder', 'sin', 'sinh', 'sqrt', 
+'tan', 'tanh', 'tau', 'trunc'  
+
+"""
+
+import math
+dir(math) # to know all the funtions in model
+print(math.sqrt(16))
+print(math.pow(2,5))
+print(math.pi)
+print(math.log10(100))
+print(math.log10(1000))
+print(math.floor(2.3))
+print(math.ceil(2.3))
+
+
+""" 'Calendar', 'EPOCH', 'FRIDAY', 'February', 'HTMLCalendar', 
+'IllegalMonthError', 'IllegalWeekdayError', 'January',
+'LocaleHTMLCalendar', 'LocaleTextCalendar', 'MONDAY', 'SATURDAY', 
+'SUNDAY', 'THURSDAY', 'TUESDAY', 'TextCalendar', 'WEDNESDAY', 
+'_EPOCH_ORD', '__all__', '__builtins__', '__cached__', '__doc__', 
+'__file__', '__loader__', '__name__', '__package__', '__spec__', 
+'_colwidth', '_locale', '_localized_day', '_localized_month', 
+'_spacing', 'c', 'calendar', 'datetime', 'day_abbr', 'day_name', 
+'different_locale', 'error', 'firstweekday', 'format', 'formatstring', 
+'isleap', 'leapdays', 'main', 'mdays', 'month', 'month_abbr', 
+'month_name', 'monthcalendar', 'monthlen', 'monthrange', 'nextmonth', 
+'prcal', 'prevmonth', 'prmonth', 'prweek', 'repeat', 'setfirstweekday', 
+'sys', 'timegm', 'week', 'weekday', 'weekheader'] """
+
+import calendar
+cal=calendar.month(2016,1)
+print(cal)
+
+calendar.isleap(2016) #check if its a leap year
+
+dir(calendar)
+
+"""
+import modules.functions as f
+area=f.calculate_square_area(5)
+print(area)
+
+"""
+""" second file
+
+def calculate_triangle_area(base,height):
+    print(return 1/2*(base*height))
+
+def calculate_square_area(length):
+  return length*length
+
+"""
+
+
+import sys
+sys.path.append("C:/Users/prasa/Desktop/modules")
+import functions as f
+area=f.calculate_square_area(5)
+print(area)
+
+
+f.calculate_triangle_area(6,7)
+
+"""
+JSON
+
+Create address book and write some records
+into it
+
+Read this address book
+
+"""
+book= {}
+book['tom']={
+    
+    'name':'tom',
+    'address':'1 red street, NY',
+    'phone':98989898
+    
+    }
+book['bob']={
+    
+    'name':'bob',
+    'address':'1 green street, NY',
+    'phone':23424234
+    
+    }
+
+""" Write the above book using json in text"""
+import json
+s=json.dumps(book)
+print(s)
+with open("C:/Users/prasa/Desktop/modules/book.text","w") as f:
+    f.write(s)
+
+f=open("C:/Users/prasa/Desktop/modules/book.text","r")
+s=f.read()
+print(s)
+
+import json
+book=json.loads(s)
+print(book)
+type(book)#dictionary
+
+print(book["bob"] )
+book["bob"]["phone"]
+
+for person in book:
+    print(book[person])
+    
     
 
 
+'''  if __name__ == "__main__" '''
+
+"""This in another file
+
+import sys
+sys.path.append("C:/Users/prasa/Desktop/py codes/")
+import practice_python
+print("I am in caller.py")
+area.calculate_area(5,10)
 
 
+"""
+
+def calculate_area(base,height):
+    return 1/2*(base*height)
+
+if __name__ == "__main__":
+    a=calculate_area(10,20)
+    print("area:",a)
 
 
+# Exception Handling
+    
+1/0 #error
+'abc'+2 #string to int error
+
+#New
 
 
+x=input("Enter number1:")
+y=input("Enter number2:")
+try:
+    z=int(x)/int(y)
+except Exception as e:
+    print('exception occured:',e) 
+    z = None
+print("Division is:",z)
 
+
+#Find the exception
+
+x=input("Enter number1:")
+y=input("Enter number2:")
+try:
+    z=int(x)/int(y)
+except ZeroDivisionError as e:
+    print('Division by zero exception') 
+    z = None
+except Exception as e:
+    print("exception type:",type(e).__name__) #We'll get the type error exception
+    z=None
+print("Division is:",z)
+
+
+"""
+except TypeError as e:
+    print('Type error exception')
+    z=None
+"""
+
+
+# Class and Objects
+
+"""
+class is abstraction of entity 
+contaning comman set of properties and 
+methods
+
+object is instance of class
+
+
+"""
+
+class Human:
+    def__init__(self,n,o):
+        self.name=0
+        self.occupation=o
+        
+    def do_work(self):
+        if self.occupation=="tennis player":
+            print(self.name,"plays tennis")
+        elif self.occupation == "actor":
+            print(self.name,"shoots a film")
+    
+    def speaks (self):
+        print(self.name,"says how are you?") 
+
+tom = Human("tom cruise","actor")           
+tom.do_work()
+tom.speaks()
+
+maria = Human("maria sharapova","tennis player")
+maria.do _work()
+maria.speaks()
 
 
