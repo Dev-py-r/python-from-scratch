@@ -499,12 +499,12 @@ object is instance of class
 """
 
 class Human:
-    def__init__(self,n,o):
-        self.name=0
-        self.occupation=o
+    def __init__ (self, n, o):
+        self.name= n
+        self.occupation= o
         
     def do_work(self):
-        if self.occupation=="tennis player":
+        if self.occupation =="tennis player":
             print(self.name,"plays tennis")
         elif self.occupation == "actor":
             print(self.name,"shoots a film")
@@ -513,11 +513,11 @@ class Human:
         print(self.name,"says how are you?") 
 
 tom = Human("tom cruise","actor")           
-tom.do_work()
-tom.speaks()
+tom.do_work ()
+tom.speaks ()
 
 maria = Human("maria sharapova","tennis player")
-maria.do _work()
-maria.speaks()
+maria.do_work ()
+maria.speaks ()
 
 
