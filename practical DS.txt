@@ -111,6 +111,8 @@ https://github.com/codebasics/py
 
 Pandas (first 9 videos): https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy
 
+https://github.com/codebasics/py
+
 Jupyter notebook tutorial: https://www.youtube.com/playlist?list=PLeo1K3hjS3uuZPwzACannnFSn9qHn8to8
 
 Matplotlib: https://www.youtube.com/playlist?list=PLeo1K3hjS3uu4Lr8_kro2AqaO6CFYgKOl
