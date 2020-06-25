@@ -1,0 +1,48 @@
+Vertical lerning pick one data science project
+
+pick one project and try to learn step by step
+
+Learn basic python
+pandas and numpy for data cleaning, exploring
+matplotlib,seaborn and for data visualisation 
+sklearn 
+Math and statistics 
+Best place for data science project is kaggle.com
+
+datasets
+
+data set of us accidents - auto insurance company to decide insurance premium
+
+Google is my friend
+
+Analitics vidya.com
+
+python or r programming language
+
+Jupiter not book pandas and numpy
+
+matplotlib,seaborn
+
+Math learn from 3Blue1Brown
+
+sk learn for machine learing
+
+pytorch tensorflow deeplearing - coursera course 
+
+Enterprise tools
+
+Visualisation tableau power bi
+
+
+online ml - amazon sage maker or google cloud autoML vision
+
+data storage and distributed computing - apache hadoop or spark 
+
+upload projects done
+
+attach github link 
+
+join facebook group
+
+datascience.stackexchange 
+
