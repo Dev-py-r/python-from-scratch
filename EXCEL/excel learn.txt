@@ -1,0 +1,344 @@
+1. What is the shortcut key you can press to create a copyright symbol?Marks Obtained : 1
+doneMarked Answer : Alt+Ctrl+C
+doneCorrect Answer : Alt+Ctrl+C
+done2. The keystrokes Ctrl + I is used toMarks Obtained : 1
+doneMarked Answer : Applies italic format to selected text
+doneCorrect Answer : Applies italic format to selected text
+done3. The key F12 opens aMarks Obtained : 1
+doneMarked Answer : Save As dialog box
+doneCorrect Answer : Save As dialog box
+done4. Excel files have a default extension ofMarks Obtained : 1
+doneMarked Answer : .Xls
+doneCorrect Answer : .Xls
+close5. Pressing F8 key for three times selectsMarks Obtained : 0
+doneMarked Answer : A paragraph
+doneCorrect Answer : A sentence
+done6. MS Excel is aMarks Obtained : 1
+doneMarked Answer : Spreadsheet program
+doneCorrect Answer : Spreadsheet program
+done7. The maximum number of rows we can have in a worksheet is:Marks Obtained : 1
+doneMarked Answer : 65,535
+doneCorrect Answer : 65,535
+
+Total Marks : 5/5done1. Which option is not available in Insert Table Autofit behavior?Marks Obtained : 1
+doneMarked Answer : Autofit to Column
+doneCorrect Answer : Autofit to Column
+done2. To autofit the width of columnMarks Obtained : 1
+doneMarked Answer : Double click the right border of column
+doneCorrect Answer : Double click the right border of column
+done3. Comments put in cells are called _______.Marks Obtained : 1
+doneMarked Answer : Cell Tip
+doneCorrect Answer : Cell Tip
+done4. Comments can be added to cells using â€¦Marks Obtained : 1
+doneMarked Answer : Insert Comment
+doneCorrect Answer : Insert Comment
+done5. In Excel, a Data Series is defined as what?Marks Obtained : 1
+doneMarked Answer : A collection of related data
+doneCorrect Answer : A collection of related data
+done1. Which button do you click to add up a series of numbers?Marks Obtained : 1
+doneMarked Answer : The autosum button
+doneCorrect Answer : The autosum button
+done2. All formula in Excel start withMarks Obtained : 1
+doneMarked Answer : =
+doneCorrect Answer : =
+done3. The divide symbol isMarks Obtained : 1
+doneMarked Answer : /
+doneCorrect Answer : /
+done4. To add two cells (A1 and A2) together you use the following formulaMarks Obtained : 1
+doneMarked Answer : =A1 + A2
+doneCorrect Answer : =A1 + A2
+done5. Two common wildcard characters that Excel recognizes areMarks Obtained : 1
+doneMarked Answer : * and ?
+doneCorrect Answer : * and ?
+done6. Formulas in Excel start withMarks Obtained : 1
+doneMarked Answer : =
+doneCorrect Answer : =
+done1. Bullets and Numbering is in _____ tab.Marks Obtained : 1
+doneMarked Answer : Home tab
+doneCorrect Answer : Home tab
+done2. Borders can be applied toMarks Obtained : 1
+doneMarked Answer : All of above
+doneCorrect Answer : All of above
+done3. To get to the Symbol dialog box, click on the ______ menu and choose SymbolMarks Obtained : 1
+doneMarked Answer : Insert
+doneCorrect Answer : Insert
+close4. From which menu you can insert Header and Footer?Marks Obtained : 0
+doneMarked Answer : View Menu
+doneCorrect Answer : Insert Menu
+done5. What is the smallest and largest font size available in Font Size tool on formatting toolbar?Marks Obtained : 1
+doneMarked Answer : 8 and 72
+doneCorrect Answer : 8 and 72
+1. To insert three columns between columns D and E you wouldMarks Obtained : 0
+doneMarked Answer : Select column D
+doneCorrect Answer : Select column E
+done2. Portrait and Landscape areMarks Obtained : 1
+doneMarked Answer : Page Orientation
+doneCorrect Answer : Page Orientation
+done3. Which of the following is not an option in the spelling dialog box?Marks Obtained : 1
+doneMarked Answer : Edit
+doneCorrect Answer : Edit
+done4. What is the shortcut key to hide entire column?Marks Obtained : 1
+doneMarked Answer : CTRL + 0
+doneCorrect Answer : CTRL + 0
+done5. Selecting the Column G & H then choose InsertColumns. What will happen?Marks Obtained : 1
+doneMarked Answer : 2 Columns will be inserted after Column F
+doneCorrect Answer : 2 Columns will be inserted after Column F
+
+1. Where can you change the vertical alignment?Marks Obtained : 1
+doneMarked Answer : Page Setup dialog box
+doneCorrect Answer : Page Setup dialog box
+done2. When creating a vertical page breakMarks Obtained : 1
+doneMarked Answer : The active cell must be in row 1
+doneCorrect Answer : The active cell must be in row 1
+done3. When working in the page break preview, you canMarks Obtained : 1
+doneMarked Answer : all of above
+doneCorrect Answer : all of above
+
+done1. You can print only an embedded chart byMarks Obtained : 1
+doneMarked Answer : a and c
+doneCorrect Answer : a and c
+done2. Charts tips canMarks Obtained : 1
+doneMarked Answer : b and c
+doneCorrect Answer : b and c
+done3. Which would you choose to create a bar diagram?Marks Obtained : 1
+doneMarked Answer : Insert, Chart
+doneCorrect Answer : Insert, Chart
+done4. What do you call the chart that shows the proportions of how one or more data elements relate to another data element?Marks Obtained : 1
+doneMarked Answer : Pie Chart
+doneCorrect Answer : Pie Chart
+1. _______ option from clipboard is used to move data from one place to another in a document.Marks Obtained : 0
+doneMarked Answer : Copy & Paste
+doneCorrect Answer : Cut & Paste
+done2. Cut, Copy and Paste is in ________ Group in the Home tabMarks Obtained : 1
+doneMarked Answer : Clipboard
+doneCorrect Answer : Clipboard
+close3. Which menu option can be used to split windows into two?Marks Obtained : 0
+doneMarked Answer : View Window Split
+doneCorrect Answer : Window Split
+close4. How many worksheets can a workbook have?Marks Obtained : 0
+doneMarked Answer : 255
+doneCorrect Answer : none of above
+done5. Which setting you must modify to print a worksheet using letterhead?Marks Obtained : 1
+doneMarked Answer : Margin
+doneCorrect Answer : Margin
+
+1. Hyperlinks cannot beMarks Obtained : 1
+doneMarked Answer : All can be hyperlinks
+doneCorrect Answer : All can be hyperlinks
+done2. If particular workbook have to open each time Excel started, where that workbook should be placed?Marks Obtained : 1
+doneMarked Answer : XLSTART Folder
+doneCorrect Answer : XLSTART Folder
+done3. Worksheet can be renamed byMarks Obtained : 1
+doneMarked Answer : Double Click on the Worksheet tab and type new name
+doneCorrect Answer : Double Click on the Worksheet tab and type new name
+done4. What is the shortcut key to insert new sheet in current workbook?Marks Obtained : 1
+doneMarked Answer : Shift + F11
+doneCorrect Answer : Shift + F11
+done5. In maximum, how many sheets can be set as default while creating new workbook?Marks Obtained : 1
+doneMarked Answer : 255
+doneCorrect Answer : 255
+
+1. Which of the formulas below contain the correct syntax (formula arguments) for the VLOOKUP function?Marks Obtained : 0
+doneMarked Answer : =VLOOKUP(lookup_value, table_array, col_index_num, range_lookup)
+doneCorrect Answer : =VLOOKUP(lookup_value, table_array, col_index_num, range_lookup)
+done2. Study the screenshot above. If I entered the formula: =INDEX(A2:A10,5) into a blank cell, what would the result be?Marks Obtained : 1
+doneMarked Answer : The result would be Julian.
+doneCorrect Answer : The result would be Julian.
+done3. Which of the following is a comparison operator for inserting a not equal to argument in an IF, COUNTIF or SUMIF function?Marks Obtained : 1
+doneMarked Answer : <>
+doneCorrect Answer : <>
+done4. Which of the following represent the correct arguments for the SUMIF function?Marks Obtained : 1
+doneMarked Answer : =SUMIF(range, criteria, [sum_range])
+doneCorrect Answer : =SUMIF(range, criteria, [sum_range])
+done5. Which of the following is the correct formula syntax for using the COUNTIF function?Marks Obtained : 1
+doneMarked Answer : =COUNTIF(range, criteria)
+doneCorrect Answer : =COUNTIF(range, criteria)
+done1. To protect a worksheet, you can choose Protection and the Protect Sheet from the menuMarks Obtained : 1
+doneMarked Answer : Tools
+doneCorrect Answer : Tools
+done2. Which elements of a worksheet can be protected from accidental modification?Marks Obtained : 1
+doneMarked Answer : All of the above
+doneCorrect Answer : All of the above
+done1. Which of the following is not a valid data type in Excel?Marks Obtained : 1
+doneMarked Answer : Character
+doneCorrect Answer : Character
+done1. What is a Pivot Table?Marks Obtained : 1
+doneMarked Answer : A tool used to summarize data.
+doneCorrect Answer : A tool used to summarize data.
+done2. Study the screenshot above. Under which tab and in which function group will you find the option to insert a Pivot Table?Marks Obtained : 1
+doneMarked Answer : Under the Insert tab in the Tables group.
+doneCorrect Answer : Under the Insert tab in the Tables group.
+done3. What is the first step for creating a Pivot Table?Marks Obtained : 1
+doneMarked Answer : Create or select data that needs to be analyzed.
+doneCorrect Answer : Create or select data that needs to be analyzed.
+done4. How do you remove or delete a Pivot Table?Marks Obtained : 1
+doneMarked Answer : All of the options listed above are correct.
+doneCorrect Answer : All of the options listed above are correct.
+done5. Where is a Pivot Table inserted?Marks Obtained : 1
+doneMarked Answer : It depends on whether you select to insert the Pivot Table in the current worksheet or a new worksheet and where your cursor is.
+doneCorrect Answer : It depends on whether you select to insert the Pivot Table in the current worksheet or a new worksheet and where your cursor is
+1. Macros are run or executed from the menu.Marks Obtained : 1
+doneMarked Answer : Tools
+doneCorrect Answer : Tools
+done2. How to remove the unwanted action from recorded macro without recording the whole macro again?Marks Obtained : 1
+doneMarked Answer : By edit the macro in the Visual Basic Editor
+doneCorrect Answer : By edit the macro in the Visual Basic Editor
+done3. Which of the following is the second step in creating a macro?Marks Obtained : 1
+doneMarked Answer : Assign a keyboard shortcut to the macro
+doneCorrect Answer : Assign a keyboard shortcut to the macro
+done4. Which language is used to create macros in Excel?Marks Obtained : 1
+doneMarked Answer : Visual Basic
+doneCorrect Answer : Visual Basic
+Total Marks : 47/50done1. How can you remove borders applied in cells?Marks Obtained : 1
+doneMarked Answer : Both of above
+doneCorrect Answer : Both of above
+done2. Can u set Page Border in ExcelMarks Obtained : 1
+doneMarked Answer : No
+doneCorrect Answer : No
+done3. A features that displays only the data in column (s) according to specified criteriaMarks Obtained : 1
+doneMarked Answer : Filtering
+doneCorrect Answer : Filtering
+done4. Which of the following Excel screen components can NOT be turned on or off?Marks Obtained : 1
+doneMarked Answer : None of Above
+doneCorrect Answer : None of Above
+done5. Statistical calculations and preparation of tables and graphs can be done usingMarks Obtained : 1
+doneMarked Answer : Excel
+doneCorrect Answer : Excel
+done6. What type of chart is useful for showing trends or changes over time ?Marks Obtained : 1
+doneMarked Answer : Line Chart
+doneCorrect Answer : Line Chart
+done7. The ____ feature of MS Excel quickly completes a series of data
+ 
+
+Marks Obtained : 1
+doneMarked Answer : Auto Fill
+doneCorrect Answer : Auto Fill
+done8. __________ type of chart is useful for comparing parts of a whole.Marks Obtained : 1
+doneMarked Answer : Pie Chart
+doneCorrect Answer : Pie Chart
+done9. Which of the following is an absolute cell reference?Marks Obtained : 1
+doneMarked Answer : $A$1
+doneCorrect Answer : $A$1
+done10. Which symbol must all formula begin with?Marks Obtained : 1
+doneMarked Answer : =
+doneCorrect Answer : =
+done11. Which of the following formulas is not entered correctly?Marks Obtained : 1
+doneMarked Answer : 10+50
+doneCorrect Answer : 10+50
+done12. Which of the following is not an example of a value?Marks Obtained : 1
+doneMarked Answer : Serial Number 50771
+doneCorrect Answer : Serial Number 50771
+done13. A worksheet range is aMarks Obtained : 1
+doneMarked Answer : A group of cells
+doneCorrect Answer : A group of cells
+done14. You can auto fit the width of column byMarks Obtained : 1
+doneMarked Answer : Double clicking on column right border on column header
+doneCorrect Answer : Double clicking on column right border on column header
+done15. _______________ option is use to prevent unwanted changes from others.Marks Obtained : 1
+doneMarked Answer : Protect
+doneCorrect Answer : Protect
+done16. We can locked the Column from our sheet using Protect Sheet optionMarks Obtained : 1
+doneMarked Answer : True
+doneCorrect Answer : True
+done17. To unprotect Sheet, use ___________Marks Obtained : 1
+doneMarked Answer : Password
+doneCorrect Answer : Password
+done18. For Save As ,shortcut key is ________________.Marks Obtained : 1
+doneMarked Answer : F12
+doneCorrect Answer : F12
+close19. To Secure Workbook in Save As dialog box  ___________ option is available .Marks Obtained : 0
+doneMarked Answer : None
+doneCorrect Answer : Tools->General Options
+done20. Protect Workbook is use to keep others making structural changes to your workbook.Marks Obtained : 1
+doneMarked Answer : True
+doneCorrect Answer : True
+done21. _______________ is use to share your workbook with others.Marks Obtained : 1
+doneMarked Answer : Share Workbook
+doneCorrect Answer : Share Workbook
+close22. To calculate rows of related data by _________________ .Marks Obtained : 0
+doneMarked Answer : Group
+doneCorrect Answer : SubTotal
+done23. The process of identifying specific rows and columns so that so that certain columns and rows are always visible on the screen is calledMarks Obtained : 1
+doneMarked Answer : freezing
+doneCorrect Answer : freezing
+done24. How to restrict the values of a cell so that only whole numbers between 18 and 60 can be entered in a cell.Marks Obtained : 1
+doneMarked Answer : The Settings tab under the menu Data -> Validation
+doneCorrect Answer : The Settings tab under the menu Data -> Validation
+done25. The data can seperated from single column of text into multiple columns using ________ option.Marks Obtained : 1
+doneMarked Answer : Text to Columns.
+doneCorrect Answer : Text to Columns.
+done26. Flash fill is automatically insert values according to pattern of previously entered values.Marks Obtained : 1
+doneMarked Answer : True
+doneCorrect Answer : True
+done27. To insert three columns between columns D and E you wouldMarks Obtained : 1
+doneMarked Answer : Select Column E
+doneCorrect Answer : Select Column E
+done28. Portrait and Landscape areMarks Obtained : 1
+doneMarked Answer : Page Orientation
+doneCorrect Answer : Page Orientation
+done29. What is the shortcut key to hide entire column ?Marks Obtained : 1
+doneMarked Answer : Ctlr + 0
+doneCorrect Answer : Ctlr + 0
+done30. When creating a vertical page breakMarks Obtained : 1
+doneMarked Answer : The active cell must be in row1
+doneCorrect Answer : The active cell must be in row1
+done31. Charts tips canMarks Obtained : 1
+doneMarked Answer : B and C
+doneCorrect Answer : B and C
+done32. Which would you choose to create a bar diagram?Marks Obtained : 1
+doneMarked Answer : Insert , Chart
+doneCorrect Answer : Insert , Chart
+close33. Window Split menu option can be used to split windows into two.Marks Obtained : 0
+doneMarked Answer : False
+doneCorrect Answer : True
+done34. Hyperlinks cannot beMarks Obtained : 1
+doneMarked Answer : All can be hyperlinks
+doneCorrect Answer : All can be hyperlinks
+done35. Worksheet can be renamed byMarks Obtained : 1
+doneMarked Answer : Double Click on the Worksheet tab and type new name
+doneCorrect Answer : Double Click on the Worksheet tab and type new name
+done36. What is the shortcut key to insert new sheet in current workbook?Marks Obtained : 1
+doneMarked Answer : Shift + F11
+doneCorrect Answer : Shift + F11
+done37. In maximum, how many sheets can be set as default while creating new workbook?Marks Obtained : 1
+doneMarked Answer : 255
+doneCorrect Answer : 255
+done38. =VLOOKUP(lookup_value, table_array, col_index_num, value) is correct syntax for the VLOOKUP function?Marks Obtained : 1
+doneMarked Answer : False
+doneCorrect Answer : False
+done39. Which of the following represent the correct arguments for the SUMIF function?Marks Obtained : 1
+doneMarked Answer : =SUMIF(range, criteria, [sum_range])
+doneCorrect Answer : =SUMIF(range, criteria, [sum_range])
+done40. Which of the following is not a valid data type in Excel?Marks Obtained : 1
+doneMarked Answer : Character
+doneCorrect Answer : Character
+done41. ______________ is first step for creating Pivot Table.Marks Obtained : 1
+doneMarked Answer : Create or select data that needs to be analyzed.
+doneCorrect Answer : Create or select data that needs to be analyzed.
+done42. ____________is tool used to summarize data.Marks Obtained : 1
+doneMarked Answer : Pivot Table
+doneCorrect Answer : Pivot Table
+done43. Macros are executed from the ______ Menu.Marks Obtained : 1
+doneMarked Answer : Tools
+doneCorrect Answer : Tools
+done44. Which language is used to create macros in Excel ?Marks Obtained : 1
+doneMarked Answer : Visual Basic
+doneCorrect Answer : Visual Basic
+done45. Which option is not available in Insert Table Autofit behavior?Marks Obtained : 1
+doneMarked Answer : Autofit to Column
+doneCorrect Answer : Autofit to Column
+done46. Smart Tags will help you to reduce spelling mistakes .Marks Obtained : 1
+doneMarked Answer : False
+doneCorrect Answer : False
+done47. _________ chart is useful for showing trends or changes over time ?Marks Obtained : 1
+doneMarked Answer : Line Chart
+doneCorrect Answer : Line Chart
+done48. The ____ feature of MS Excel quickly completes a series of data Marks Obtained : 1
+doneMarked Answer : Auto Fill
+doneCorrect Answer : Auto Fill
+done49. ____________ is shortcut to enter data into cell.Marks Obtained : 1
+doneMarked Answer : F2
+doneCorrect Answer : F2
+done50. _____________ is use for formating with conditions.Marks Obtained : 1
+doneMarked Answer : Conditional Formatting
+doneCorrect Answer : Conditional Formatting
