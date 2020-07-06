@@ -427,7 +427,7 @@ for person in book:
 
 '''  if __name__ == "__main__" '''
 
-"""This in another file
+"""This in another file caller.py"""
 
 import sys
 sys.path.append("C:/Users/prasa/Desktop/py codes/")
@@ -436,9 +436,10 @@ print("I am in caller.py")
 area.calculate_area(5,10)
 
 
-"""
+"""Area.py"""
 
 def calculate_area(base,height):
+    print("__name__:",__name__)
     return 1/2*(base*height)
 
 if __name__ == "__main__":
